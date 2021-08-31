@@ -1,2 +1,3 @@
-# graduation1
-Student Information System - Oguzhan SEZGİN
+
+# Student Information System 
+In this study, current technologies that are popularly used today were used. Spring server is used in the backend part of the system. In this way, requests sent to the system were carried out quickly and using a modular structure by passing through various layers. Thanks to the modular structure of the system, it has been ensured that it can be added without any complexity in case of possible development in the future. React framework was used in the frontend part of the study. In this way, users are enabled to perform their transactions efficiently in the system in line with their authorization. Frontend is visually enriched using the semantic-ui library. In the study, 3 user groups were created as student, student affairs (administrator) and lecturer, and different authorizations were assigned to each of these user groups. The tests performed in the system were carried out in a database with approximately 60000 user records, and returns under 1 second were received.
