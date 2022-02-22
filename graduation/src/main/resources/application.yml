@@ -5,9 +5,9 @@ spring:
   main:
     banner-mode: off
   datasource:
-    username: /* db username */
-    password: /* db password */
-    url:      /* db url */
+    username: root
+    password: 53pazar53+
+    url: jdbc:mysql://localhost:3306/unisystem?useUnicode=true&useLegacyDatetimeCode=false&serverTimezone=Turkey
 
   jpa:
     hibernate:
